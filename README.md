@@ -11,7 +11,7 @@ I’ve dedicated countless hours to studying frameworks, algorithms, machine lea
 
 Here are some of the notable projects I have worked on:
 
-- :robot: **[Study-Generator]**: An AI-powered study tool that uses YOLOv5 + GPT-4o to detect assignments from screenshots and generate personalized study plans. – [Source Code](https://github.com/ncortes04](https://github.com/ncortes04/Study-Generator))
+- :robot: **[Study-Generator]**: An AI-powered study tool that uses YOLOv5 + GPT-4o to detect assignments from screenshots and generate personalized study plans. – [Source Code](https://github.com/ncortes04/Study-Generator)
 
 - :sun_with_face: **[MY Portfolio]**: In case you missed it heres my website with a little more about me, along with my projects. - [Website](https://ncortes04.github.io/My-Portfolio/).
 
