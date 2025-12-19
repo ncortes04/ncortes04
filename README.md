@@ -4,11 +4,14 @@ Welcome to my GitHub profile! Here you will find a collection of my projects, co
 
 ## :innocent: About Me
 
-I am a full-stack web developer with 1.5 year of experience in Javascript, CSS, HTML. I have a strong background in React, and I am always eager to learn and tackle new challenges. I have dedicated countles hours to studying latest frameworks and technologies. I feel that with coding the sky is the limit on what you specialize in. I also love solving difficult problems on leetcode to expand my knowledge on datasctrcutres and alogorithms.
+I’m a Computer Science student at the University of Washington Tacoma and a full-stack web developer with experience in JavaScript, Python, TypeScript, and SQL. I have a strong background in React and backend development, and I’m always eager to learn new technologies. 
+I’ve dedicated countless hours to studying frameworks, algorithms, machine learning, and distributed systems. I also enjoy solving challenging problems on LeetCode to strengthen my knowledge of data structures and algorithms.  
 
 ## :computer: Projects
 
 Here are some of the notable projects I have worked on:
+
+- :robot: **[Study-Generator]**: An AI-powered study tool that uses YOLOv5 + GPT-4o to detect assignments from screenshots and generate personalized study plans. – [Source Code](https://github.com/ncortes04](https://github.com/ncortes04/Study-Generator))
 
 - :sun_with_face: **[MY Portfolio]**: In case you missed it heres my website with a little more about me, along with my projects. - [Website](https://ncortes04.github.io/My-Portfolio/).
 
@@ -33,14 +36,13 @@ I am always excited about new opportunities to contribute to meaningful projects
 
 ## :technologist: Skills
 
-- **Programming Languages**: Javascript, TypeScript, Python
-
-- **Frameworks and Libraries**: React, Express.js, jQuery, Bootstrap, Handlebars
-
-- **Tools and Testing**: Postman, Insomnia, Jest
-
-- **Developer Tools**: GIT, NPM, Babel, Webpack
-## Contact Me
+- **Programming Languages:** JavaScript, TypeScript, Python, Java
+  
+- **Frameworks & Libraries:** React, Express.js, Node.js, jQuery, Bootstrap, Handlebars
+  
+- **Tools & Testing:** Postman, Insomnia, Jest
+  
+- **Developer Tools:** Git, NPM, Babel, Webpack  
 
 I am open to collaboration and would love to connect with fellow developers. You can reach me via:
 
@@ -50,6 +52,8 @@ I am open to collaboration and would love to connect with fellow developers. You
 
 Feel free to connect with me, and let's discuss exciting opportunities or ideas!
 
-## Conclusion
+## 🙏 Conclusion  
 
-Thank you for visiting my GitHub profile. I am passionate about software development and enjoy creating innnovative projects. I believe in the power of and collaboration, and i am looking foward to getting a job and wokring with peers. I'm always looking forward to contributing to projects and learning new technologies. Don't forget to follow me on GitHub to stay posted with my latest projects and activities.
+Thank you for visiting my GitHub profile! I’m passionate about building innovative software and expanding my skills. I’m always looking to collaborate, learn new technologies, and contribute to impactful projects.  
+
+Feel free to follow my GitHub to stay updated on future work and ideas 🚀  
